@@ -1,0 +1,11 @@
+{
+    "name": "CF Contest Timer",
+    "version": "1.0.1",
+    "description": "codeforces latest contest timer extension",
+    "manifest_version": 3,
+    "author": "Saleheen Uddin Sakin",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "CF Contest Timer"
+    }
+}
